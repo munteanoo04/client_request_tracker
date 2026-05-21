@@ -1,0 +1,1 @@
+Scrie ceva Karl.
