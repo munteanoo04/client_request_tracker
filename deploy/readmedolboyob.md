@@ -1,0 +1,1 @@
+aici vor fi yaml pentru deploy (docker)
